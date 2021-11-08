@@ -6,3 +6,10 @@ The code allows the generation of pseudo random secret code with unique digits a
 
 Some screenshots:
 
+Starting the game and setting the code length and number of symbols:
+
+<img src="https://github.com/nzayem/Bulls_and_Cows/blob/master/game%20start.png" width="450" height="450">
+
+Took me 12 tries to find the correct code!!
+
+<img src="https://github.com/nzayem/Bulls_and_Cows/blob/master/game_end.png" width="400" height="350">
